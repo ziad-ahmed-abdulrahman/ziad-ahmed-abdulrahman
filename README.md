@@ -5,7 +5,7 @@
 
 ## 👨🏻‍💻 About Me
 <img align="right" alt="coding" width="280" src="https://github.com/user-attachments/assets/f54f3062-b032-4651-a317-4355cc531cbe" >
--
+
 I am a **Software Engineer** dedicated to building scalable and robust server-side applications. I have a strong passion for designing clean systems and implementing efficient back-end logic. My focus is on writing maintainable code that follows industry best practices.
 
 - 🔭 **Focus:** Designing high-performance Web APIs.
